@@ -1,0 +1,16 @@
+
+   
+{
+    "name": "aliyundrive-webdav",
+    "description": "AliyunDrive Webdav",
+    "keywords": ["aliyundrive"],
+    "env": {
+        "REFRESH_TOKEN": {
+            "description": "Browser: local storage > token.refresh_token",
+            "value": "xxx"
+        }
+    },
+    "website": "https://github.com/leenchan/aliyundrive",
+    "repository": "https://github.com/leenchan/aliyundrive",
+    "stack": "container"
+}
