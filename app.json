@@ -17,7 +17,7 @@
           "description": "",
             "value":"剧集"
        },
-       "UESR":{
+       "USER":{
           "description": "Browser: local storage > token.refresh_token",
             "value":"xxx"
        },
