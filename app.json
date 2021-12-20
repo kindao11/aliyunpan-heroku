@@ -8,7 +8,19 @@
         "REFRESH_TOKEN": {
             "description": "Browser: local storage > token.refresh_token",
             "value": "xxx"
-        }
+        },
+       "PORT":{
+            "value":8888
+       },
+       "ROOT":{
+            "value":"剧集"
+       },
+       "UESR":{
+            "value":"xxx"
+       },
+       "PASSWORD":{
+            "value":"xxx"
+       }
     },
     "website": "https://github.com/leenchan/aliyundrive",
     "repository": "https://github.com/leenchan/aliyundrive",
