@@ -10,15 +10,19 @@
             "value": "xxx"
         },
        "PORT":{
-            "value":8888
+            "description": "",
+            "value":"8888"
        },
        "ROOT":{
+          "description": "",
             "value":"剧集"
        },
        "UESR":{
+          "description": "Browser: local storage > token.refresh_token",
             "value":"xxx"
        },
        "PASSWORD":{
+          "description": "Browser: local storage > token.refresh_token",
             "value":"xxx"
        }
     },
