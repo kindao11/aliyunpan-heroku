@@ -26,7 +26,7 @@
             "value":"xxx"
        }
     },
-    "website": "https://github.com/KaiSiMai/aliyundrive",
-    "repository": "https://github.com/KaiSiMai/aliyundrive",
+    "website": "https://github.com/KaiSiMai/aliyundrive-heroku",
+    "repository": "https://github.com/KaiSiMai/aliyundrive-heroku",
     "stack": "container"
 }
